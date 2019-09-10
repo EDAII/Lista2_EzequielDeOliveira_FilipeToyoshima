@@ -1,3 +1,9 @@
+# Idea
+
+The idea is a race between you and some common sorting algorithms to see which one needs the least exchanges to maintain an increasing order. Everyone starts with the same array and can make 1 change per turn.
+
+**spoiler alert**: the Selection Sort will win. Maybe you can draw.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
